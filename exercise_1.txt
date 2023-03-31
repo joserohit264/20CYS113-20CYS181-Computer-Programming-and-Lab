@@ -1,0 +1,49 @@
+
+
+Write the following numbers in normal decimal notation:
+1. 299792458
+2. 0.123456
+3. 009876
+
+Identify if char, int or double
+1. int
+2. double
+3. char
+4. double
+
+
+
+Variables
+-dividend
+-divisor
+-quotient
+-remainder
+
+Reserved words
+-int
+-main
+-scanf
+-printf
+-include
+-return
+-if
+-else
+
+Format strings
+-Enter dividend
+-Ented divisor
+-Quotient
+-Remainder
+
+Header file
+-stdio.h
+
+Symbols
+-%
+-&
+-;
+-""
+-()
+-{}
+-=
+
